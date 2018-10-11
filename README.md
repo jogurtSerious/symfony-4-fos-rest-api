@@ -1,6 +1,6 @@
 # FOSRest API
 
-This repo stores a
+This repo stores a functional FOSRest API to recieve Album entities.
 
 Instructions were followed from: 
 
