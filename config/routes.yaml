@@ -1,0 +1,7 @@
+album:
+  type: rest
+  resource: App\Controller\AlbumController
+
+book: 
+  type: rest
+  resource: App\Controller\BookController
